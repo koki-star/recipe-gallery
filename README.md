@@ -44,6 +44,9 @@ Then open the local link shown in the terminal (usually `http://localhost:5173`)
 
 ```
 src/
+├─ assets/
+│  ├─ react.svg
+│  └─ recipe-gallery.jpg
 ├─ main.jsx
 ├─ App.jsx
 ├─ RecipeGallery.jsx
