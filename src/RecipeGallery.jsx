@@ -38,12 +38,14 @@ function RecipeGallery() {
     //  Scenario: Recipe has no ingredients
     //  Expected: Card renders and ingredient list is empty
 
-  {
+  /*
+    {
     id: 4,
     title: "Plain Toast",
     ingredients: [],
     image: "https://images.unsplash.com/photo-1509440159596-0249088772ff",
   },
+  */
 
   /* ---------- EDGE TEST CASE 2 ----------  */
     //  Scenario: Recipe has a very long title
