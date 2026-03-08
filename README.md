@@ -1,5 +1,11 @@
 # Recipe Gallery
 
+## Preview
+
+![Recipe Gallery](./src/assets/recipe-gallery.jpg)
+
+## Description
+
 A small React project that displays a few recipes in a card layout. Each card shows an image, the recipe title, and a list of ingredients.
 
 This project was mainly built to practice rendering lists in React using `.map()` and organizing components.
